@@ -3,6 +3,10 @@ body{
     background-size:cover;
 }
 
+a:hover{
+    color:blue;
+}
+
 header{
     position:absolute;
     color:ghostwhite;
@@ -264,3 +268,6 @@ footer ul li{
     font-size: 20px;
 }
 
+footer ul li:hover{
+    color:blue;
+}
