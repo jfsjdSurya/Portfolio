@@ -56,6 +56,7 @@ nav ul {
     width: 150px;
     top:65px;
     border-radius: 20px;
+    transition: zoom 1s ease-out 0.3s;
 }
 
 .image:hover{
